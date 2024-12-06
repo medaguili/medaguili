@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohammed EL Aguili , I'am a motivated young Java & Testing QA Engineer with over 2 years of experience in Development , functional, manual, and automated testing. Skilled in identifying and resolving bugs, ensuring software quality, and supporting delivery processes. Proficient in using testing tools such as Selenium, Postman, and TestRail to drive testing efficiency and accuracy. Able to collaborate effectively with development teams to ensure timely product releases. Adept at working in dynamic and fast-paced environments, with a proven track record of enhancing software performance.</p>
+<h3 align="left">My name is Mohammed EL Aguili , I'am a motivated young Java & Testing QA Engineer with over 2 years of experience in Development , functional, manual, and automated testing. Skilled in identifying and resolving bugs, ensuring software quality, and supporting delivery processes. Proficient in using testing tools such as Selenium, Postman, and TestRail to drive testing efficiency and accuracy. Able to collaborate effectively with development teams to ensure timely product releases. Adept at working in dynamic and fast-paced environments, with a proven track record of enhancing software performance.</h3>
 
 ###
 
